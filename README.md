@@ -17,7 +17,7 @@ I enjoy learning new technologies, exploring data, and discovering how AI can he
 
 ## 🎯 Career Objective
 
-My goal is to transition into the data analytics field by combining my educational background, previous MIS experience, and newly acquired technical skills.
+My goal is to transition into the data analytics field by combining my educational background, previous MIS experience, and newly acquired AI technical skills.
 
 I aspire to become a Data Analyst who can organize data, identify useful insights, create meaningful reports, and support data-driven business decisions.
 
